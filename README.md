@@ -1,2 +1,5 @@
 # dotfiles
-The dotfiles of the coolest Arch Linux user ever (Me) :3
+
+**INSTRUCTIONS**
+
+This is, of course, assuming you are here for my cool audio visualizer wallpaper combo.
