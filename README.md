@@ -16,7 +16,7 @@ The following instructions are for my cool visualizer wallpaper thing. For DWM i
 
 5b. *GLava setup (no DWM)*: This varies greatly depending on your DE, but I will try to give a rough explanation. You are going to want to add the path to your glava.sh script to your .xsession file, or whatever file autoruns on login (For example, on KDE Plasma, you can just add it as a login script in the settings menu). If you change workspaces/desktops often, I would reccomend you add it to whatever logic that runs when you switch workspaces/desktops. Optionally, you can bind /path/to/glava.sh to a keyboard shortcut, to be able to start it manually in case it fails to start on its own. You can even just use that and not go through the trouble of adding it to the workspace logic, if you wish.
 
-6. That's it! Just turn music (or any sound, really) on and it should start up. If it doesn't, then use whatever audio manager you use (like pavucontrol) and ensure that GLava is recording the audio.
+6. That's it! Just turn music (or any sound, really) on and it should start up. If it doesn't, then use whatever audio manager you use (like pavucontrol) to ensure that GLava is recording the audio.
 
 
 
