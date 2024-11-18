@@ -1,4 +1,4 @@
 .git
-install_scripts
+scripts/install
 README.md
 .config/glava
