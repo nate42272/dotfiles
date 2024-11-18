@@ -11,7 +11,7 @@ The following instructions are for my cool visualizer wallpaper thing. For DWM i
 
 2. *Extract files*: Clone this repository with `git clone https://github.com/nate42272/dotfiles`. Move the ~/dotfiles/.config/picom.conf and ~/dotfiles/.config/glava to your .config directory. Move wallpaper.jpg to wherever you please.
 
-**For this guide, you will ONLY need the following files from this repo: .config/picom.conf, .config/glava, wallpaper/wallpaper.jpg, scripts/system/glava.sh, and optionally programs/dwm**
+**For this guide, you will ONLY need the following files from this repo: .config/picom.conf, .config/glava, wallpaper/wallpaper.jpg, scripts/system/glava.sh, and optionally programs/dwm. All the other stuff are just bonus config files of mine, for if you wanted to glaze me even harder**
 
 3. *Set wallpaper*: If you use DWM, you can use feh to set the wallpaper by adding `feh --bg-fill path/to/wallpaper.jpg` to ~/.xsession. If you do not use DWM, then you can check your DE's documentation of setting the wallpaper.
 
