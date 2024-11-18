@@ -2,6 +2,9 @@ fpath+=($HOME/.zsh/pure)
 autoload -U promptinit; promptinit
 prompt pure
 
+
+
+wal -q -i ~/images/wallpaper.jpg
 uwufetch
 
 
@@ -18,3 +21,4 @@ alias ~="cd main"
 
 
 eval $(thefuck --alias)
+export PATH=$PATH:~/.local/bin/
