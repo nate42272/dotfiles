@@ -29,7 +29,7 @@ The following instructions are for my cool visualizer wallpaper thing. For DWM i
 
 ## DWM SETUP INSTRUCTIONS
 
-If you use DWM, you probably don't need this. But, hey, I've met dumb people with PhDs, so you never know.
+If you use DWM, you probably already know what to do. But, hey, I've met dumb people with PhDs, so you never know.
 
 This is also assuming that you don't already have DWM set up. If you do, you know what to fuckin do
 
