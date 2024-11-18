@@ -40,7 +40,7 @@ This is also assuming that you don't already have DWM set up. If you do, you kno
 
 3. You might need to make a desktop entry for it, if it is not available in your Desktop Manager after you log out. You can figure this out on your own, we're not children
 
-4. That's it. Optionally, if you want to use my awesome cool dwmblocks, you will do the exact same things I just told you to do, but with programs/blocks. 
+4. That's it. Optionally, if you want to use my awesome cool dwmblocks, you will do the exact same things I just told you to do, but with programs/blocks. If anything goes wrong with running dwmblocks, you are probably missing dependencies.
 
 
 
