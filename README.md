@@ -3,7 +3,7 @@
 The following instructions are for my cool visualizer wallpaper thing. For DWM instructions, scroll down.
 
 
-(If this readme is missing anything or something goes wrong with the installation, please create a GitHub issue and/or email me at . I will probably respond within a day!)
+(If this readme is missing anything or something goes wrong with the installation, please create a GitHub issue and/or message me on Discord @nate42272. I will probably respond within a day!)
 
 
 1. *Required packages*: You will need to install Git, GLava, and Picom, as well as Feh if you use DWM. If you use Arch Linux, you can just `sudo pacman -S glava git picom`
