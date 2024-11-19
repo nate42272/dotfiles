@@ -34,7 +34,7 @@ If you use DWM, you probably already know what to do. But, hey, I've met dumb pe
 This is also assuming that you don't already have DWM set up. If you do, you know what to fuckin do
 
 
-1. Move programs/dwm to wherever you want DWM to reside, it doesn't really matter
+1. Move programs/dwm to wherever you want DWM to reside, it doesn't really matter. Also, install any nerdfont to be able to see the battery icon. I reccomend IBM Plex.
 
 2. CD into dwm, and `sudo make clean install`
 
