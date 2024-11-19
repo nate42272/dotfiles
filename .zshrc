@@ -15,10 +15,11 @@ alias s="sudo pacman -S"
 alias sn="sudo pacman --noconfirm -S"
 alias r="sudo pacman -Rns"
 alias rn="sudo pacman --noconfirm -Rns"
-alias source.="source .zshrc"
+alias syu="sudo pacman -Syu"
 alias rmf="sudo rm -fr"
-alias ~="cd main"
+alias source.="source .zshrc"
 
 
-eval $(thefuck --alias)
+eval $(thefuck --alias) # you need "fuck" installed for this to work
+
 export PATH=$PATH:~/.local/bin/
